@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialArrays", "PartialArrays\PartialArrays.csproj", "{04BB195E-E931-4876-BA7D-F97C9FE89A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialArraysDemo", "PartialArraysDemo\PartialArraysDemo.csproj", "{07B58A0B-D117-4C33-9AF8-222BF5284FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BB195E-E931-4876-BA7D-F97C9FE89A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BB195E-E931-4876-BA7D-F97C9FE89A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BB195E-E931-4876-BA7D-F97C9FE89A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BB195E-E931-4876-BA7D-F97C9FE89A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B58A0B-D117-4C33-9AF8-222BF5284FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B58A0B-D117-4C33-9AF8-222BF5284FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B58A0B-D117-4C33-9AF8-222BF5284FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B58A0B-D117-4C33-9AF8-222BF5284FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
